@@ -19,6 +19,10 @@ public class ErrorValidationTest extends BaseTest {
 
 		;
 		Assert.assertEquals("Incorrect email or password.", landingPage.getErrorMessage());
+<<<<<<< HEAD
+=======
+		// error message validating 
+>>>>>>> ff8b995 (intial commit)
 
 	}
 	
